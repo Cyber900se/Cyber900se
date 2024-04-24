@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cyber900se
 - Meh programmer, game designer, artist
-- Currently learning programming and patterns, game design and losing faith in humanity
-- Looking to collaborate on sttuff involving games
+- Currently learning programming, patterns and game design. Also losing faith in humanity
+- Looking to collaborate on stuff involving games
 - G-mail: semyonbarkovd@gmail.com, Twitter: @kron_2061
 
 <!---
